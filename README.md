@@ -4,8 +4,6 @@ A Python-based US stock market scanner that computes technical indicators for th
 
 Built for traders, investors, and analysts who want a scalable, automated technical screening system with a simple spreadsheet-based interface.
 
-⸻
-
 🚀 Key Features
 	•	📈 Scans thousands of US stocks (NYSE & NASDAQ)
 	•	🧮 Calculates a comprehensive set of technical indicators
@@ -14,7 +12,6 @@ Built for traders, investors, and analysts who want a scalable, automated techni
 	•	⚡ Fully automated Python pipeline
 	•	🧩 Modular & extensible indicator framework
 
-⸻
 
 📉 Technical Indicators Covered
 
