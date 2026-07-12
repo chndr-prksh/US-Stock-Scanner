@@ -155,7 +155,7 @@ Contributions and feature requests are welcome. Please open an issue or submit a
 
 📄 License
 
-MIT License
+MIT License.
 
 ⸻
 
