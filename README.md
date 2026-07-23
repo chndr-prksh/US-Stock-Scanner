@@ -159,4 +159,4 @@ MIT License.
 
 ⸻
 
-If this project helps you, consider giving it a ⭐ on GitHub!
+If this project helps you, consider giving it a ⭐ on GitHub
